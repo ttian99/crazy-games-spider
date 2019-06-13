@@ -1,0 +1,31 @@
+{
+  "name": "crazy-games-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "fast-csv": "^3.0.1",
+    "glob": "^7.1.4",
+    "iconv-lite": "^0.4.24",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttian99/crazy-games-spider.git"
+  },
+  "author": "Monkey Jiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttian99/crazy-games-spider/issues"
+  },
+  "homepage": "https://github.com/ttian99/crazy-games-spider#readme"
+}
