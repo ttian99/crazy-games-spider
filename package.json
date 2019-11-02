@@ -11,7 +11,7 @@
     "fast-csv": "^3.0.1",
     "glob": "^7.1.4",
     "iconv-lite": "^0.4.24",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "moment": "^2.24.0"
   },
   "devDependencies": {},
