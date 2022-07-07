@@ -12,7 +12,7 @@
     "glob": "^7.1.4",
     "iconv-lite": "^0.4.24",
     "lodash": "^4.17.13",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   },
   "devDependencies": {},
   "scripts": {
